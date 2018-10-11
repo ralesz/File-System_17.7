@@ -1,0 +1,1 @@
+.DS_Store, .git, README.md, cat.jpg, index.js, node_modules, package.json, tekst_new.txt
